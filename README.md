@@ -1,6 +1,6 @@
 # Consumer Rights Website Prototype
 
-This is a functional HTML prototype for a website designed to help users understand their rights under Australian Consumer Law, particularly for electronics and digital goods.
+This project is a functional front-end prototype designed to demystify the complexities of the Australian Consumer Law and provide clear, immediate guidance for everyday consumers. Its core objective is to empower individuals who are facing issues with faulty electronics or digital goods. Through a simple, interactive questionnaire, users can quickly understand their rights and receive actionable guidance on their next steps. This prototype was developed with a strong emphasis on Accessibility, integrating features such as font resizing, high-contrast mode, text-to-speech, and multi-language support to ensure an equitable and seamless experience for all users.
 
 ---
 
