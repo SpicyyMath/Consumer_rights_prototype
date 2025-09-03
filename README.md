@@ -10,8 +10,6 @@ This is a functional HTML prototype for a website designed to help users underst
 
 **[https://spicyymath.github.io/Consumer_rights_prototype/prototype.html](https://spicyymath.github.io/Consumer_rights_prototype/prototype.html)**
 
-*(Note: Replace the URL above with your actual GitHub Pages link if it's different!)*
-
 ---
 
 ## ✨ Key Features
