@@ -24,11 +24,10 @@ This is a functional HTML prototype for a website designed to help users underst
 
 ## 📸 Preview
 
-[*gif*](https://github.com/SpicyyMath/Consumer_rights_prototype/blob/main/questionnaire.gif)
+! [*web demo*](https://github.com/SpicyyMath/Consumer_rights_prototype/blob/main/questionnaire.gif)
 
 ---
 
 ## 🛠️ How to Use
 
-1.  **Live Demo (Recommended):** Simply click the [live demo link](#-live-demo) above.
-2.  **Local Files:** Clone or download the repository, then open the `prototype.html` file in your web browser.
+1.  **Directly access to the website:** Simply open the link provided above
