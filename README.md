@@ -1,0 +1,36 @@
+# Consumer Rights Website Prototype
+
+This is a functional HTML prototype for a website designed to help users understand their rights under Australian Consumer Law, particularly for electronics and digital goods.
+
+---
+
+## 🚀 Live Demo
+
+**You can view and interact with the live prototype here:**
+
+**[https://spicyymath.github.io/Consumer_rights_prototype/prototype.html](https://spicyymath.github.io/Consumer_rights_prototype/prototype.html)**
+
+*(Note: Replace the URL above with your actual GitHub Pages link if it's different!)*
+
+---
+
+## ✨ Key Features
+
+*   **Interactive Questionnaire:** A step-by-step guide to help users identify their specific situation and rights.
+*   **Accessibility Tools:** Includes options for changing font size, a high-contrast mode, and a simplified view.
+*   **Multi-language Support:** The interface can be switched between English, Chinese, and Marathi.
+*   **Text-to-Speech:** Users can listen to the content on the main pages.
+*   **Comprehensive Resources:** Includes easy-to-understand explanations of consumer law concepts, case studies, and scripts for talking to retailers.
+
+---
+
+## 📸 Preview
+
+*(We will add a screenshot or GIF here in the next step!)*
+
+---
+
+## 🛠️ How to Use
+
+1.  **Live Demo (Recommended):** Simply click the [live demo link](#-live-demo) above.
+2.  **Local Files:** Clone or download the repository, then open the `prototype.html` file in your web browser.
