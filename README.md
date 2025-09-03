@@ -24,7 +24,7 @@ This is a functional HTML prototype for a website designed to help users underst
 
 ## 📸 Preview
 
-! [*web demo*](https://github.com/SpicyyMath/Consumer_rights_prototype/blob/main/questionnaire.gif)
+! [*web demo*]([https://github.com/SpicyyMath/Consumer_rights_prototype/blob/main/questionnaire.gif](https://github.com/SpicyyMath/Consumer_rights_prototype/blob/main/questionnaire.gif))
 
 ---
 
